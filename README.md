@@ -48,8 +48,8 @@
 **Tasks**
 * [x] USB to UART Driver Installation
 * [x] IDE Installation (VS Code, Platform IO, C/C++ extension)
-* [ ] Create a new project
-* [ ] Program an Microcontroller Unit (MCU) Hello World program: Blink Diode
+* [x] Create a new project
+* [x] Program an Microcontroller Unit (MCU) Hello World program: Blink Diode
 
 
 <!-- Reusable and Invisible URL Definitions  -->
