@@ -15,8 +15,9 @@
 <br  />
 
 **USB to UART Bridge Driver Setup**
-1. Check the Bridge used in the ESP32 Microcontrolle Development Board
-    * Insert ESP32 MCU.jpg here
+1. Check the Bridge used in the Microcontroller Development Board
+    * Insert CP210xVSCH340.png here
+    * Insert ESP8266 ESP-12E MCU.png here
 1. Download the USB to UART Bridge Drivers:
     * For CP210X, download [here][CP210X Driver].
     * For CH340, download [here][CH340 Driver].
