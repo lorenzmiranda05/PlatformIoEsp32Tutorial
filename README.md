@@ -15,7 +15,7 @@
     ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/ESP8266%20ESP-12E%20MCU.png)
 
 
-    | Board Details | | 
+    | Microcontroller Board Details | | 
     | - | - | 
     | Development Board | NodeMCU |
     | Radio-Frequency (RF) Module | ESP12F |
