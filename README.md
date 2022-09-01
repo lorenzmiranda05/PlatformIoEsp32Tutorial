@@ -9,7 +9,20 @@
 <br  />
 
 **Hardware**
-1. Microcontroller Development Board
+1. Microcontroller Board
+    <br  />
+    <br  />
+    ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/ESP8266%20ESP-12E%20MCU.png)
+
+
+    | Board Details | | 
+    | - | - | 
+    | Development Board | NodeMCU |
+    | Radio-Frequency (RF) Module | ESP12F |
+    | System-on-a-Chip (SoC) | ESP8266 |
+    <br  />
+
+
 1. Male USB A to Male USB Micro B Data Cable
 
 <br  />
@@ -18,14 +31,12 @@
 1. Check the Bridge used in the Microcontroller Development Board
     <br  />
     <br  />
-    ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/CP210xVSCH340.png)
-    <br  />
-    <br  />
-    ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/ESP8266%20ESP-12E%20MCU.png)
+    ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/CP210xVSCH340.png)  
+
 1. Download the USB to UART Bridge Drivers:
     * For CP210X, download [here][CP210X Driver].
     * For CH340, download [here][CH340 Driver].
-1. Install the USB to UART Driver.
+1. Install the USB to UART Driver
 
 <br  />
 
